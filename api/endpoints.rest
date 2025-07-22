@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/auth/register
+Content-Type: application/json
+
+{
+  "email": "sofiane@sofiane.fr",
+  "username": "sofiane",
+  "password": "123456"
+}
+
+###
