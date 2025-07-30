@@ -101,12 +101,10 @@ Développer une **application Kanban** complète composée de :
 
 | Élément         | Technologies utilisées                                           |
 | --------------- |------------------------------------------------------------------|
-| **Backend**     | Express.js, TypeScript, PostgreSQL, Sequelize, JWT, Socket.io |
+| **Backend**     | Express.js, TypeScript, PostgreSQL, Prisma, JWT, Socket.io |
 | **Frontend**    | Next.js, TypeScript                                         |
 | **Tests**       | Jest, Cypress                             |
-| **Conteneurs**  | Docker, docker-compose                                           |
 | **CI/CD**       | GitHub Actions                                                   |
-| **Déploiement** | VPS (Docker, systemd, nginx, etc.)                               |
 
 ---
 
